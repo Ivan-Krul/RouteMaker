@@ -1,0 +1,157 @@
+U4 Hütteldorf
+U4 Ober St. Veit
+U4 Unter St. Veit
+U4 Braunshweigasse
+U4 Hietzing
+U4 Schönbrunn
+U4 Meidling Hauptstraße
+U4 Längenfeldg.
+U4 Margaretengürtel
+U4 Pilgramgasse
+U4 Kettenbrückengasse
+U4 Karlsplatz
+U4 Stadtpark
+U4 Landstraße
+U4 Schwedenplatz
+U4 Schottenring
+U4 Roßauer Lände
+U4 Friedensbrücke
+U4 Spittelau
+U4 Heiligenstadt
+U6 Siebenhirten
+U6 Perfektastraße
+U6 Erlaaer Straße
+U6 Alterlaa
+U6 Am Schöpfwerk
+U6 Tscherttegasse
+U6 Meidling
+U6 Niederhofstraße
+U6 Längenfeldg.
+U6 Gumpendorfer Straße
+U6 Westbahnhof
+U6 Burgasse Stadthalle
+U6 Thaliastraße
+U6 Josefstädter Straße
+U6 Alser Straße
+U6 Michaelbeuern AKH
+U6 Währinger Straße Volksoper
+U6 Nußdorfer Straße
+U6 Spittelau
+U6 Jägerstraße
+U6 Dresdner Straße
+U6 Handelskai
+U6 Neue Donau
+U6 Floridsdorf
+U3 Ottakring
+U3 Kendlerstraße
+U3 Hütteldorfer Straße
+U3 Johnstraße
+U3 Schweglerstraße
+U3 Westbahnhof
+U3 Zieglerg.
+U3 Neubaub.
+U3 Volkstheater
+U3 Herrengasse
+U3 Stephansplatz
+U3 Stubentor
+U3 Landstraße
+U3 Rochusgasse
+U3 Kardinal-Nagl-Platz
+U3 Schlachthausgasse
+U3 Erdberg
+U3 Gasometer
+U3 Zippererstraße
+U3 Enkplatz
+U3 Simmering
+U1 Oberlaa
+U1 Neulaa
+U1 Alaudagasse
+U1 Altes Landgut
+U1 Troststraße
+U1 Reumannsplatz
+U1 Keplerplatz
+U1 Südtiroler Platz Hbf.
+U1 Taubstummengasse
+U1 Karlsplatz
+U1 Stephansplatz
+U1 Schwedenplatz
+U1 Nestroypl.
+U1 Praterstern
+U1 Vorgartenstraße
+U1 Donauinsel
+U1 Kaisermühlen VIC
+U1 Alte Donau
+U1 Kagran
+U1 Kagraner Platz
+U1 Rennbahnweg
+U1 Aderklaaer Straße
+U1 Großfeldsiedlung
+U1 Leopoldau
+U2 Shottentor
+U2 Schottenring
+U2 Taborstraße
+U2 Praterstern
+U2 Messe-Prater
+U2 Krieau
+U2 Stadion
+U2 Donaumarina
+U2 Donaustadtbrücke
+U2 Stadlau
+U2 Hardeggasse
+U2 Donauspital
+U2 Aspernstraße
+U2 Hausfeldstraße
+U2 Aspern Nord
+U2 Seestadt
+SB Meidling
+SB Matzleinsdorfer Platz
+SB Südtiroler Platz Hbf.
+SB Quartier Belvedere
+SB Rennweg
+SB Mitte
+SB Praterstern
+SB Traisengasse
+SB Handelskai
+SB Floridsdorf
+SB Heiligenstadt
+SB Oberdöbling
+SB Krottenbachstr.
+SB Gersthof
+SB Hernals
+SB Ottakring
+SB Breitengasse
+SB Penzing
+SB Westbahnhof
+SB Hütteldorf
+SB Speising
+SB Blumental
+SB Hetzendorf
+SB Atzgersdorf
+SB Liesing
+SB Wolf in der Au
+SB Hadersdorf
+SB Weidlingau
+SB Purkersdorf Sanatorium
+SB Grillgasse
+SB Kledering
+SB St. Marx Vienna Bio Center
+SB Geiselbergstr.
+SB Zentralfriedhof
+SB Schwechat
+SB Simmering
+SB Haidestraße
+SB Preterkai
+SB Stadlau
+SB Erzherzog-Karl-Straße
+SB Hirschstetten
+SB Aspern Nord
+SB Brunner Straße
+SB Jedlersdorf
+SB Strebersdorf
+SB Siemensstraße
+SB Leopoldau
+SB Süßenbrunn
+SB Gerasdorf
+SB Nußdorf
+SB Spittelau
+SB Franz-Josefs
